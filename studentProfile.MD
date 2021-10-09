@@ -1,4 +1,4 @@
-__Student_TODO:__  
+ 
 
 < 8 oct 2021 >
 
@@ -8,7 +8,7 @@ Cohort < 1 >
 
 ## Student Career Goal Statement 
 
-   __Student_TODO:__ 
+    
  
   < I would like to expand my Fintech skills to be a professional employee in a Saudi fintech company. 
   Specifically, I would like to be one of the first professional groups in this new field in my country.
@@ -17,7 +17,6 @@ Cohort < 1 >
 
 ### Student mini-CV:
 
-  __Student_TODO:__
 
   - Degrees Completed:    
         <  BSc information system'13, MSc information system 20' >
